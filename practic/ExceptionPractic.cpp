@@ -2,7 +2,7 @@
 #include<vector>
 #include<regex>
 using namespace std;
-
+//burda kodun icinde guya ki deyisiklik etdim
 bool isValid(const string& email)
 {
 
